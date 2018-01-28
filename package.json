@@ -1,0 +1,24 @@
+{
+  "name": "homebridge-miio-new",
+  "version": "0.0.1",
+  "description": "Use some Xiaomi devices with Homebridge: https://github.com/wiwi111/homebridge-miio-new",
+  "homepage": "https://github.com/wiwi111/homebridge-miio-new",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wiwi111/homebridge-miio-new.git"
+  },
+  "bugs": {
+    "url": "http://github.com/wiwi111/homebridge-miio-new/issues"
+  },
+  "dependencies": {
+    "miio": "^0.15.4"
+  },
+  "engines": {
+    "homebridge": ">=0.4.16",
+    "node": ">=7.2.0"
+  }
+}
